@@ -22,3 +22,5 @@ Goals:
 + Move the plater character and change its sprite - Done
 + Spawn Random Enemies - Done
 + Count the score - Done
+
+All of the evaluation goals were met.
