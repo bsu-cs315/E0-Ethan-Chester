@@ -17,8 +17,8 @@ Open font license version 1.1 Details are in fonts/LICENSE.txt
 *Activity Report*:
 
 Goals:
-Create a complete 2D game with the Godot editor - Done
-Structure a simple game project - Done
-Move the plater character and change its sprite - Done
-Spawn Random Enemies - Done
-Count the score - Done
++ Create a complete 2D game with the Godot editor - Done 
++ Structure a simple game project - Done
++ Move the plater character and change its sprite - Done
++ Spawn Random Enemies - Done
++ Count the score - Done
